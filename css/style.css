@@ -1,0 +1,21 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+header i{
+	background-color: #f8dc3d;
+	color: #2e2e2c;
+	font-size: 80px;
+	width: 100%;
+}
+
+@media (max-width:600px){
+	header i{
+		text-align: center;
+	}
+}
